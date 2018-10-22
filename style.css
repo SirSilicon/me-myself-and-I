@@ -1,5 +1,41 @@
-h1 {
+* {
+  position: ;
+  overflow: ;
+}
+h1.name {
   font-size: 100px;
-  color: white;
+  color: red;
   text-align: center;
+  background-color: ;
+  position: relative;
+  bottom: 50px;
+}
+h1.name2 {
+  font-size: 100px;
+  color: red;
+  text-align: center;
+  position: relative;
+  bottom: 215px;
+}
+a {
+  text-decoration: none;
+}
+body {
+  background-image: url(https://www.wallpapersforiphone6plus.com/wp-content/uploads/2018/02/Canada-Flag-Wallpaper-1920x1080-73-with-Canada-Flag-Wallpaper-1920x1080.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+div.R {
+  background-color: crimson;
+  width: 20%;
+  position: relative;
+  bottom: 200px;
+}
+div.L {
+  background-color: crimson;
+  width: 20%;
+  position: relative;
+  bottom: 730px;
+  left: 1000px;
+  color: black;
 }
