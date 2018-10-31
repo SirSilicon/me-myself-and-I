@@ -1,6 +1,6 @@
 * {
   position: ;
-  overflow: ;
+  overflow: hidden;
 }
 h1.name {
   font-size: 100px;
@@ -36,6 +36,7 @@ div.L {
   width: 20%;
   position: relative;
   bottom: 730px;
-  left: 1000px;
+  left: 1250px;
   color: black;
+  text-align: right;
 }
